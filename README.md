@@ -7,7 +7,7 @@ Power BI dashboard and report exploring Baelish Home Hardware’s 2021–2024 sa
 
 This Power BI project provides a comprehensive analysis of **Baelish Home Hardware’s sales performance** from **2021 to 2024**. The dashboard enables users to explore key sales and profitability metrics interactively using slicers for **Product Category** and **Year**.
 
-A companion **PDF report** (3–4 pages) is included, containing **seven annotated screenshots** that demonstrate how the dashboard responds to user interactions and slicer selections.
+A companion **PDF report** (4 pages) is included, containing **seven annotated screenshots** that demonstrate how the dashboard responds to user interactions and slicer selections.
 
 ---
 
