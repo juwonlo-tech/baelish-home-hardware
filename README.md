@@ -75,6 +75,4 @@ A notable finding from the dashboard is that **YoY Sales Growth % declined in 20
 2. Open it in **Power BI Desktop (or Power BI Service)**.
 3. Use the **Category** and **Year** slicers to explore different data perspectives.
 4. Refer to the **PDF Report** for examples of dashboard interactions and insights.
----
-
-Would you like me to make this README a bit **shorter and more portfolio-friendly** (for example, something more visual and concise, suitable for GitHub’s front page)?
+--
